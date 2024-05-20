@@ -1,2 +1,2 @@
 # Neural Network from scratch
- Building neural network using numpy, maths and matplotlib only.
+ Building neural network using numpy and maths only.
